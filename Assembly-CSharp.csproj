@@ -93,6 +93,7 @@
      <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
      <Compile Include="Assets\src\CameraMover.cs" />
      <Compile Include="Assets\src\CameraTps.cs" />
+     <Compile Include="Assets\src\FollowingCamera.cs" />
      <Compile Include="Assets\src\Player.cs" />
      <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\AutoBlink.cs" />
      <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\CameraController.cs" />
