@@ -29,10 +29,7 @@ private GameObject player;   //プレイヤー情報格納用
  
         //ユニティちゃんの向きと同じようにカメラの向きを変更する
         if(minArg.y<player.transform.rotation.eulerAngles.y||player.transform.rotation.eulerAngles.y<maxArg.y){
-            transform.rotation = player.transform.rotation;    
+            transform.rotation = player.transform.rotation;
         }
-        
-
-
 	}
 }
